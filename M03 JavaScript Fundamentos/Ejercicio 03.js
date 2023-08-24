@@ -64,9 +64,9 @@ function esImpar(num) {
       return(true);}
       else{
          return(false);
-      }
+       }
 }
- 
+
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
    tienenMismaLongitud,
