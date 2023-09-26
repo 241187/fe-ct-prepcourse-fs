@@ -148,7 +148,7 @@ function sumarLikesDeUsuario(objetoUsuario) {
        suma =suma + objetoUsuario.posts[i].likes;
       }
       return suma;
-   } 
+    } 
   
 
 function agregarMetodoCalculoDescuento(objetoProducto) {
